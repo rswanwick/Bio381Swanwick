@@ -1,0 +1,16 @@
+---
+title: "BIO 381 Rachel Swanwick Homework"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Home Page
+
+Rachel Swanwick 
+
+Homework 
+
+* [Homework 2](newpage.html)
